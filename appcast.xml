@@ -8,7 +8,7 @@
       <sparkle:version>1611</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>x</p>]]></description>
+      <description><![CDATA[<p>First tester build: live captions, notes, Ace, playback of lectures from your phone, and automatic updates.</p>]]></description>
       <enclosure url="https://github.com/DormWay/dormway-lecture-releases/releases/download/v0.1.0-1611/DormWay-Lecture-0.1.0.dmg" sparkle:edSignature="2shxihtHdJYg0IbQsYWzeQ3GFaIIGtESs2V/D6wk+keiQgVb51NeyqWzyFiBjMYWMLY16bkxk0ETbxhXFfbeBA==" length="11077248" type="application/octet-stream"/>
     </item>
   </channel>
