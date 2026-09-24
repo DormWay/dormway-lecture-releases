@@ -8,7 +8,7 @@
       <sparkle:version>1669</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Anonymous usage analytics that follow your DormWay privacy setting, and a more reliable lecture audio upload.</p>]]></description>
+      <description><![CDATA[<p>Usage analytics tied to your DormWay account, sent only if your DormWay privacy setting allows analytics, and a more reliable lecture audio upload.</p>]]></description>
       <enclosure url="https://github.com/DormWay/dormway-lecture-releases/releases/download/v0.1.2-1669/DormWay-Lecture-0.1.2.dmg" sparkle:edSignature="0b1730y9GJgmsf2r9/WvKIc8ve/OtXkDABIkP1/UISM8/B6ZpSyftiR4EbVHGK38jeU4HIgMeIf2WUt2arPvAA==" length="11844930" type="application/octet-stream"/>
     </item>
     <item>
