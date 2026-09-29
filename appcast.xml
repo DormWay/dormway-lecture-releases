@@ -3,6 +3,15 @@
   <channel>
     <title>DormWay Lecture</title>
     <item>
+      <title>Version 0.1.2 (1673)</title>
+      <pubDate>Tue, 29 Sep 2026 00:08:00 GMT</pubDate>
+      <sparkle:version>1673</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Keeps your course list up to date while the app stays open, so recordings no longer get stuck on a course you've dropped. If a recording can't upload because its course is gone, the app now tells you and lets you file it under one of your current courses with File under….</p>]]></description>
+      <enclosure url="https://github.com/DormWay/dormway-lecture-releases/releases/download/v0.1.2-1673/DormWay-Lecture-0.1.2.dmg" sparkle:edSignature="QkR9J+O5KfpZqGIAeBsJLjCMBtYes+qnv4ECnzQfQA0m45TsHNwOU5KEwwO/1G7utymqjn5DBQrzXLsH8M/bCw==" length="11935876" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.2 (1669)</title>
       <pubDate>Thu, 24 Sep 2026 00:57:04 GMT</pubDate>
       <sparkle:version>1669</sparkle:version>
